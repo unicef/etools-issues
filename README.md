@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/unicef/etools-issues.png?label=ready&title=Ready)](https://waffle.io/unicef/etools-issues)
 # etools-issues
 This repository is central to all issue tracking in the eTools project. It is integrated to [Waffle](https://waffle.io/unicef/etools-issues) - the eTools team's issue management tool. 
 All issues logged in [Waffle](https://waffle.io/unicef/etools-issues) are readily available in this repository. Any updates done to the issue in GitHub is reflected in Waffle and vice versa. 
